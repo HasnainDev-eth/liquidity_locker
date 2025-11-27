@@ -1,0 +1,22 @@
+{
+  "name": "stamp-locker",
+  "version": "1.0.0",
+  "description": "ERC20 token and liquidity locking solution inspired by UNCX Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "liquidity",
+    "locker",
+    "defi",
+    "vesting"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
